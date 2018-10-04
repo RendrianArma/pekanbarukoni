@@ -1,8 +1,1 @@
-ganti indexnya lagi
-asdas
-as
-das
-d
-asd
-
-
+SILENCE IS DIAM
