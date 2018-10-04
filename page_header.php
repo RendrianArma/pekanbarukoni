@@ -43,32 +43,32 @@
         <div class="d-none d-sm-none d-md-block align-items-center ml-sm-auto">
           <div class=" d-md-block mr-3">
             <a class="btn btn-dual" data-toggle="scroll-to" data-speed="750" href="page_atlet.php">
-              <i class="fa fa-compass text-black-50"></i>
+              <i class="fa fa-users text-black-50"></i>
               <span class="font-size-sm ml-1  d-lg-inline">Atlet</span>
 
             </a>
             <a class="btn btn-dual" data-toggle="scroll-to" data-speed="750" href="page_pelatih.php">
-              <i class="fa fa-compass text-black-50"></i>
+              <i class="fa fa-user-tie text-black-50"></i>
               <span class="font-size-sm ml-1  d-lg-inline">Pelatih</span>
 
             </a>
             <a class="btn btn-dual" data-toggle="scroll-to" data-speed="750" href="page_wasit.php">
-              <i class="fa fa-compass text-black-50"></i>
+              <i class="fa fa-user-secret text-black-50"></i>
               <span class="font-size-sm ml-1  d-lg-inline">Wasit</span>
 
             </a>
             <a class="btn btn-dual" data-toggle="scroll-to" data-speed="750" href="page_venue.php">
-              <i class="fa fa-compass text-black-50"></i>
+              <i class="fa fa-building text-black-50"></i>
               <span class="font-size-sm ml-1  d-lg-inline">Venue</span>
 
             </a>
             <a class="btn btn-dual" data-toggle="scroll-to" data-speed="750" href="page_prestasi.php">
-              <i class="fa fa-compass text-black-50"></i>
+              <i class="fa fa-trophy text-black-50"></i>
               <span class="font-size-sm ml-1  d-lg-inline">Prestasi</span>
 
             </a>
             <a class="btn btn-dual" data-toggle="scroll-to" data-speed="750" href="page_berita.php">
-              <i class="fa fa-compass text-black-50"></i>
+              <i class="fa fa-newspaper text-black-50"></i>
               <span class="font-size-sm ml-1  d-lg-inline">Berita</span>
 
             </a>

@@ -30,7 +30,7 @@
             '.$namanya['cabor'].'
             </td>
             <td class="d-none d-sm-table-cell text-center">
-            <a class="btn btn-sm btn-primary px-3 mr-1 my-1" href="/details/atlet/'.$namanya['link'].'">
+            <a class="btn btn-sm btn-primary px-3 mr-1 my-1" href="page.profile.atlet.php">
             Detail
             </a>
             </td>
