@@ -117,7 +117,7 @@
                             <span class="nav-main-link-name">Berita</span>
                         </a>
                     </li>
-                    <li class="nav-main-heading">Users &amp; Groups</li>
+                    <li class="nav-main-heading">Users </li>
                     <li class="nav-main-item">
                         <a class="nav-main-link" href="">
                             <i class="nav-main-link-icon fa fa-cog"></i>
@@ -140,80 +140,12 @@
                 <div>
                     <div class="dropdown d-inline-block">
                         <button type="button" class="btn btn-dual dropdown-toggle" id="page-header-user-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <i class="fa fa-server"></i>
-                            <span class="d-none d-sm-inline ml-1">Server: MC_1685</span>
+                            <i class="si si-logout"></i>
+                            <span class="d-none d-sm-inline ml-1">Logout</span>
                         </button>
-                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-lg p-0" aria-labelledby="page-header-user-dropdown">
-                            <div class="rounded-top font-w600 text-center bg-body-dark p-3">
-                                <div class="mb-1">
-                                    <i class="fa fa-users text-black-75 mr-1"></i> 12/16
-                                </div>
-                                <span class="badge badge-success d-inline-block mb-3">
-                                    <i class="fa fa-spinner fa-spin mr-1"></i> Running
-                                </span>
-                                <div class="row gutters-tiny">
-                                    <div class="col-6">
-                                        <button type="button" class="btn btn-sm btn-danger btn-block">
-                                            <i class="fa fa-stop mr-1"></i> Stop
-                                        </button>
-                                    </div>
-                                    <div class="col-6">
-                                        <button type="button" class="btn btn-sm btn-warning btn-block">
-                                            <i class="fa fa-redo mr-1"></i> Restart
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="p-2">
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <div class="d-flex justify-content-between align-items-center">
-                                        <span class="font-w600">
-                                            Server: MC_2345
-                                        </span>
-                                        <i class="fa fa-fw fa-server ml-1"></i>
-                                    </div>
-                                    <div class="font-size-sm">
-                                        <i class="fa fa-circle text-success mr-1"></i> Friends
-                                    </div>
-                                </a>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <div class="d-flex justify-content-between align-items-center">
-                                        <span class="font-w600">
-                                            Server: MC_0092
-                                        </span>
-                                        <i class="fa fa-fw fa-server ml-1"></i>
-                                    </div>
-                                    <div class="font-size-sm">
-                                        <i class="fa fa-circle text-danger mr-1"></i> Family
-                                    </div>
-                                </a>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <div class="d-flex justify-content-between align-items-center">
-                                        <span class="font-w600">
-                                            Server: MC_5679
-                                        </span>
-                                        <i class="fa fa-fw fa-server ml-1"></i>
-                                    </div>
-                                    <div class="font-size-sm">
-                                        <i class="fa fa-circle text-success mr-1"></i> Personal
-                                    </div>
-                                </a>
-                                <div role="separator" class="dropdown-divider"></div>
-                                <a class="dropdown-item" href="javascript:void(0)">
-                                    <div class="d-flex justify-content-between align-items-center">
-                                        <span class="font-w600">Add New Server</span>
-                                        <i class="fa fa-fw fa-plus text-primary ml-1"></i>
-                                    </div>
-                                    <div class="font-size-sm">
-                                        $10 per month
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
+                    
                     </div>
-                    <button type="button" class="btn btn-dual" data-toggle="layout" data-action="side_overlay_toggle">
-                        <i class="fa fa-fw fa-cogs"></i>
-                    </button>
+                   
                 </div>
             </div>
             <div id="page-header-search" class="overlay-header bg-primary">
