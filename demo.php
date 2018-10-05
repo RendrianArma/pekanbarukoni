@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head
@@ -105,7 +104,7 @@ img.emoji {
 <script type='text/javascript' data-cfasync="false" id="omapi-script" async="async" src='https://a.optmnstr.com/app/js/api.min.js'></script>
 <link rel='https://api.w.org/' href='https://themeisle.com/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://themeisle.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s10725.pcdn.co/wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s10725.pcdn.co/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 4.9.7" />
 <link rel='shortlink' href='https://themeisle.com/?p=6838573' />
 <link rel="alternate" type="application/json+oembed" href="https://themeisle.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemeisle.com%2Fdemo%2F" />
@@ -113,11 +112,11 @@ img.emoji {
 <meta name="generator" content="Easy Digital Downloads v2.9.3" />
 <script
 id="fsc-api"
-src="https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.7.6/fastspring-builder.min.js" type="text/javascript" 
-data-storefront="themeisle.onfastspring.com/popup-themeisle" 
-data-data-callback="edd_fsc_order" 
-data-after-markup-callback="edd_fsc_after_markup"    
-data-popup-closed="edd_popup_closed"    
+src="https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.7.6/fastspring-builder.min.js" type="text/javascript"
+data-storefront="themeisle.onfastspring.com/popup-themeisle"
+data-data-callback="edd_fsc_order"
+data-after-markup-callback="edd_fsc_after_markup"
+data-popup-closed="edd_popup_closed"
 data-decorate-callback="edd_decorate_url" >
 </script><!-- HFCM by 99 Robots - Snippet # 8: sendinblue -->
 <script type="text/javascript">
@@ -157,9 +156,9 @@ Click the help icon above to learn more.
 	color: #7f7f7f;
 }
 .plugin-page .edd_download_purchase_form .edd-fastspring-upgrade-btn,
-.pricing-tables-new .edd_download_purchase_form .edd-fastspring-upgrade-btn{ 
+.pricing-tables-new .edd_download_purchase_form .edd-fastspring-upgrade-btn{
 	width: 90%;
-	margin-top:-10px; 
+	margin-top:-10px;
 	padding: 12px 0px !important;
 	font-size: 1.1rem !important;
 }
@@ -168,7 +167,7 @@ Click the help icon above to learn more.
 }
 
 #input_1_27 labeL{
-	
+
 	margin-bottom: 10px;
 }
 /* Retired themes */
@@ -236,7 +235,7 @@ Click the help icon above to learn more.
 				</div>
 			</center>
 
-			
+
 
 		</div>
 	</div>
@@ -284,6 +283,3 @@ Click the help icon above to learn more.
 							<script type="text/javascript">var omapi_localized = { ajax: 'https://themeisle.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: 'f59d281bb2', slugs: {"zka2gjaibgxx2cpdvjnq":{"slug":"zka2gjaibgxx2cpdvjnq","mailpoet":false},"zfslb8btyhxsxnn4hf6t":{"slug":"zfslb8btyhxsxnn4hf6t","mailpoet":false}} };</script>
 						</body>
 						</html>
-
-
-
